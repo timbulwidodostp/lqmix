@@ -1,6 +1,8 @@
 # lqmix
 Longitudinal data analysis via linear quantile mixtures Use lqmix With (In) R Software
 
+https://www.youtube.com/watch?v=u3KRD0ogWtg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
